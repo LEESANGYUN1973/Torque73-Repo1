@@ -1,2 +1,2 @@
-# Torque73_TestRepo1
-torque73 Test Repository first..!
+# Torque73 first Repository
+Torque73 first repository..!
